@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-<h1 align="center"> â® The Open Source Text to CAD Web App â® </h1>
+<h1 align="center"> Ã¢ÂÂ® The Open Source Text to CAD Web App Ã¢ÂÂ® </h1>
 
 <div align="center">
 
@@ -27,15 +27,15 @@
 
 ---
 
-## â¨ Features
+## Ã¢ÂÂ¨ Feature
 
-- ð¤ **AI-Powered Generation** - Transform natural language and images into 3D models
-- ðï¸ **Parametric Controls** - Interactive sliders for instant dimension adjustments
-- ð¦ **Multiple Export Formats** - Export as .STL or .SCAD files
-- ð **Browser-Based** - Runs entirely in your browser using WebAssembly
-- ð **Library Support** - Includes BOSL, BOSL2, and MCAD libraries
+- Ã°ÂÂ¤Â **AI-Powered Generation** - Transform natural language and images into 3D models
+- Ã°ÂÂÂÃ¯Â¸Â **Parametric Controls** - Interactive sliders for instant dimension adjustments
+- Ã°ÂÂÂ¦ **Multiple Export Formats** - Export as .STL or .SCAD files
+- Ã°ÂÂÂ **Browser-Based** - Runs entirely in your browser using WebAssembly
+- Ã°ÂÂÂ **Library Support** - Includes BOSL, BOSL2, and MCAD libraries
 
-## ð¯ Key Capabilities
+## Ã°ÂÂÂ¯ Key Capabilities
 
 | Feature                    | Description                                          |
 | -------------------------- | ---------------------------------------------------- |
@@ -46,7 +46,7 @@
 | **Smart Updates**          | Efficient parameter changes without AI re-generation |
 | **Custom Fonts**           | Built-in Geist font support for text in models       |
 
-## ð¸ Demo
+## Ã°ÂÂÂ¸ Demo
 
 <!-- Add demo GIFs or screenshots here -->
 <!-- Example format:
@@ -56,9 +56,9 @@
 ![Gear Example](./demo/gear-example.png)
 -->
 
-> ð¬ **Try it live:** https://adam.new/cadam
+> Ã°ÂÂÂ¬ **Try it live:** https://adam.new/cadam
 
-## ðº Screenshots
+## Ã°ÂÂÂº Screenshots
 
 <img src="./public/screenshot-2.jpeg" alt="CADAM Screenshot 2" />
 
@@ -72,7 +72,7 @@
 
 </details>
 
-## ð Quick Start
+## Ã°ÂÂÂ Quick Start
 
 ```bash
 # Clone the repository
@@ -90,13 +90,13 @@ npx supabase functions serve --no-verify-jwt
 npm run dev
 ```
 
-## ð Prerequisites
+## Ã°ÂÂÂ Prerequisites
 
 - Node.js and npm
 - Supabase CLI
 - ngrok (for local webhook development)
 
-## ð§ Setting Up Environment Variables
+## Ã°ÂÂÂ§ Setting Up Environment Variables
 
 ### 1. Frontend Environment:
 
@@ -117,7 +117,7 @@ npm run dev
   NGROK_URL="<NGROK URL>" # Your ngrok tunnel URL, e.g., https://xxxx-xx-xx-xxx-xx.ngrok.io
   ```
 
-## ð Setting Up ngrok for Local Development
+## Ã°ÂÂÂ Setting Up ngrok for Local Development
 
 CADAM uses ngrok to send image URLs to Anthropic:
 
@@ -143,7 +143,7 @@ CADAM uses ngrok to send image URLs to Anthropic:
 
 4. Ensure `ENVIRONMENT="local"` is set in the same file.
 
-## ð» Development Workflow
+## Ã°ÂÂÂ» Development Workflow
 
 ### Install Dependencies
 
@@ -158,7 +158,7 @@ npx supabase start
 npx supabase functions serve --no-verify-jwt
 ```
 
-## ð ï¸ Built With
+## Ã°ÂÂÂ Ã¯Â¸Â Built With
 
 - **Frontend:** React 18 + TypeScript + Vite
 - **3D Rendering:** Three.js + React Three Fiber
@@ -168,13 +168,13 @@ npx supabase functions serve --no-verify-jwt
 - **Styling:** Tailwind CSS + shadcn/ui
 - **Libraries:** BOSL, BOSL2, MCAD
 
-## ð¤ Contributing
+## Ã°ÂÂ¤Â Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also [open an issue](https://github.com/Adam-CAD/CADAM/issues).
 
 See the [CONTRIBUTING.md](CONTRIBUTING.md) for instructions and [code of conduct](CODE_OF_CONDUCT.md).
 
-## ð Credits
+## Ã°ÂÂÂ Credits
 
 This app wouldn't be possible without the work of:
 
@@ -184,7 +184,7 @@ This app wouldn't be possible without the work of:
 - [openscad-web-gui](https://github.com/seasick/openscad-web-gui)
 - [dingcad](https://github.com/yacineMTB/dingcad)
 
-## ð License
+## Ã°ÂÂÂ License
 
 This distribution is licensed under the GNU General Public License v3.0 (GPLv3). See `LICENSE`.
 
@@ -199,10 +199,10 @@ Components and attributions:
 
 <div align="center">
   
-**â­ If you find CADAM useful, please consider giving it a star!**
+**Ã¢Â­Â If you find CADAM useful, please consider giving it a star!**
 
 [![Stars](https://img.shields.io/github/stars/Adam-CAD/cadam?style=social&logo=github)](https://github.com/Adam-CAD/cadam/stargazers)
 
-Made with ð for the 3D printing and CAD community
+Made with Ã°ÂÂÂ for the 3D printing and CAD community
 
 </div>

@@ -27,7 +27,7 @@
 
 ---
 
-## Ã¢ÂÂ¨ Feature
+## Ã¢ÂÂ¨ Features
 
 - Ã°ÂÂ¤Â **AI-Powered Generation** - Transform natural language and images into 3D models
 - Ã°ÂÂÂÃ¯Â¸Â **Parametric Controls** - Interactive sliders for instant dimension adjustments
